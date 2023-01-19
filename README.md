@@ -1,5 +1,5 @@
 # Repositótio do Desafio de Projeto sobre Git/Gitub da DIO
-Repositório Criado para o Desafio de Projeto
+Projeto Base: Criando seu Primeiro Repositório Git/Github para Compartilhar seu Progresso.
 
 ### Links Úteis
 
