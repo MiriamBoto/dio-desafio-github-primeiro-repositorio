@@ -1,0 +1,3 @@
+* Faça anotações Detalhadas
+Cada commit tem uma entrada de registro correspondente. No momento da criação da confirmação, essa entrada de registro é preenchida com uma mensagem. É importante deixar mensagens de log de commit explicativas descritivas. Essas mensagens de registro de commit devem explicar o “por que” e o “o quê” que abrangem o conteúdo das confirmações. Essas mensagens de registro se tornam a história canônica do desenvolvimento do projeto e deixam um rastro para futuros colaboradores revisarem.
+

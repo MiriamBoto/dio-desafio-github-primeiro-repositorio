@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Comandos do Git e GitHub (Windows)
 Dir : Lista todos os diretorias da pasta atual
 Linux: Ls
@@ -11,3 +12,18 @@ Comando MKDIR: Serve para criar uma pasta digitar Workspace
 Em seguida colocar o comando DIR para listar tudo o que tem neste terminal.
 Comando Del / RMDIR Servem para apagar um arquivo no repositório, no Windows, para Linux usa rm – rf
 Rmdir workspace /S /Q
+=======
+Comandos do Git e GitHub (Windows)
+Dir : Lista todos os diretorias da pasta atual
+Linux: Ls
+Obs: os comandos possuem flags que possibilitam alterar, modificar ou formatar a forma como os dados são devolvidos. 
+Cd: Serve para navegar entre as pastas ele e igual nos dois sistemas operacionais.
+Se usar Cd/ ele lista para navegar em uma pasta especifica nono diretório C.
+Se usar Windows e depois DIR e possível listas tudo o que tem na pasta Windows.
+Se quiser voltar digita CD.. para retornar para o diretório C.
+Para limpar o terminal usa o comando usado e o Cls : clear screen, no Linux usa clean ou control L, no Windows não funciona este comando control L para limpar o terminal.
+Comando MKDIR: Serve para criar uma pasta digitar Workspace
+Em seguida colocar o comando DIR para listar tudo o que tem neste terminal.
+Comando Del / RMDIR Servem para apagar um arquivo no repositório, no Windows, para Linux usa rm – rf
+Rmdir workspace /S /Q
+>>>>>>> d7ad930551fdf668e8ec2fef66d43573174f1674

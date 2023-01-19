@@ -13,3 +13,12 @@ Curso: Introdução ao Git e ao GitHub
 Curso: Trabalhando com Branches no GitHub (opcional)
 Curso: Git e GitHub Focado em PullRequest (opcional)
 Lab: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+Observações:
+
+Link para baixar o Git https://github.com/
+Link para baixar o editor de texto typora https://typora.io/
+
+O que é o Git Bash 
+O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. 
+
