@@ -5,5 +5,5 @@ Repositório Criado para o Desafio de Projeto
 
 [Sintaxe Básica Marquidown](https://www.markdownguide.org/basic-syntax/)
 
-[os 10 comandos mais usados](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)
+[Os 10 comandos que todo dev deve conhecer](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)
 
